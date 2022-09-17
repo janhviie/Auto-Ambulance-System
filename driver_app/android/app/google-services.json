@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "583484718165",
+    "firebase_url": "https://flutter-auto-ambulance-app-default-rtdb.firebaseio.com",
+    "project_id": "flutter-auto-ambulance-app",
+    "storage_bucket": "flutter-auto-ambulance-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:583484718165:android:7bc6ca3a3490299e5328dc",
+        "android_client_info": {
+          "package_name": "com.example.driver_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "583484718165-644to5q5odtngm716bknbu9d4ifvdaav.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCO1QoDF2cYJBLIezJ4XtiCOZuNU0UPCkE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "583484718165-644to5q5odtngm716bknbu9d4ifvdaav.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:583484718165:android:43bec8a392a182065328dc",
+        "android_client_info": {
+          "package_name": "com.example.victim_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "583484718165-644to5q5odtngm716bknbu9d4ifvdaav.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCO1QoDF2cYJBLIezJ4XtiCOZuNU0UPCkE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "583484718165-644to5q5odtngm716bknbu9d4ifvdaav.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
